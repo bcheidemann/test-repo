@@ -1,3 +1,3 @@
 # Test Repo
 
-feat/3 - this is a new feature!
+feature/3 - this is a new feature!
